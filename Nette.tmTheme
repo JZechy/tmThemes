@@ -25,7 +25,6 @@
 	<string>theme.light.nette</string>
 	<key>settings</key>
 	<array>
-		<!-- Základní nastavení -->
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -39,8 +38,6 @@
 				<string>#99C5FF</string>
 			</dict>
 		</dict>
-
-		<!-- Klíčová slova -->
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -93,8 +90,6 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-
-		<!-- Storage -->
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -108,8 +103,6 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-
-		<!-- Proměnné -->
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -149,8 +142,6 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-
-		<!-- Ostatní -->
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -227,9 +218,6 @@
 				<string>normal</string>
 			</dict>
 		</dict>
-
-
-		<!-- Komentáře -->
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -254,8 +242,6 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-
-		<!-- entity -->
 		<dict>
 			<key>name</key>
 			<string>Entity tag</string>
