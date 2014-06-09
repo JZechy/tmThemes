@@ -15,10 +15,14 @@
 		<key>foreground</key>
 		<string>#000000</string>
 	</dict>
+	<key>author</key>
+	<string>JZechy</string>
+	<key>comment</key>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;JZechy&#x2f;tmThemes</string>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Nette</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.light.nette</string>
 	<key>settings</key>
 	<array>
 		<!-- Základní nastavení -->
