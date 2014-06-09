@@ -318,6 +318,19 @@
 				<string>bold</string>
 			</dict>
 		</dict>
+
+		<!-- CSS -->
+		<dict>
+			<key>name</key>
+			<string>CSS property</string>
+			<key>scope</key>
+			<string>support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#448CCB</string>
+			</dict>
+		</dict>
 	</array>
 </dict>
 </plist>
