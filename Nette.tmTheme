@@ -309,7 +309,7 @@
 			<key>name</key>
 			<string>DOCTYPE</string>
 			<key>scope</key>
-			<string>keyword.doctype.xml</string>
+			<string>keyword.doctype.xml, meta.tag.sgml.doctype.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
