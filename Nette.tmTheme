@@ -162,19 +162,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Support class</string>
-			<key>scope</key>
-			<string>support.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#d59401</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Meta function call static</string>
 			<key>scope</key>
 			<string>meta.function-call.static</string>
@@ -212,7 +199,32 @@
 				<string>normal</string>
 			</dict>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>Support function construct</string>
+			<key>scope</key>
+			<string>support.function.construct</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Other constant</string>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
 
 		<!-- Komentáře -->
 		<dict>
